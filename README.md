@@ -69,6 +69,10 @@ Send me a message on GitHub, otherwise, feel free to clone or download.
 
 There are currently no tests for this app.
 
+## **Deployed Application**
+
+[Deployed Application](https://storylines1.herokuapp.com/)
+
 ## **Video of Deployed Application**
 
 [Video Demonstration](https://drive.google.com/file/d/14OGu3DZ7D_X_BcPv77HW5zV-VxBm53XE/view?usp=sharing)
