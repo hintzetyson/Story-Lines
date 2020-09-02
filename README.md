@@ -1,4 +1,4 @@
-# Project-2 - Story Lines
+# Story Lines
 
 ## **Table of Contents**
 
